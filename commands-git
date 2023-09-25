@@ -1,0 +1,12 @@
+		Les commandes git qui permettent de :
+
+	Cloner un repository : 
+
+git clone <URL_du_repository>
+
+	Les 3 commandes de push :
+
+1. git add .
+2. git commit -m "Message de commit"
+3. git push origin <nom_de_la_branche>
+
