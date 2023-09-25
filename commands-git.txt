@@ -1,0 +1,19 @@
+Créer une nouvelle branche :
+
+git branch nom_de_la_branche
+
+Basculer sur une branche existante :
+
+git checkout nom_de_la_branche
+
+Créer une nouvelle branche et basculer dessus en une seule commande :
+
+git checkout -b nom_de_la_branche
+
+Lister les branches :
+
+git branch
+
+Changer le nom d'une branche existante :
+
+git branch -m ancien_nom nouveau_nom
